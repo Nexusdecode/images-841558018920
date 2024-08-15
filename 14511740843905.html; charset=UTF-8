@@ -1,0 +1,1201 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-enabled vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Sublime (philosophy) - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-enabled vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":[
+"",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"fae2bc43-8d31-46f4-ad10-e5c687350e31","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sublime_(philosophy)","wgTitle":"Sublime (philosophy)","wgCurRevisionId":1221919352,"wgRevisionId":1221919352,"wgArticleId":744036,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","CS1 Italian-language sources (it)","Articles with short description","Short description matches Wikidata","Wikipedia introduction cleanup from November 2017","All pages needing cleanup","Articles covered by WikiProject Wikify from November 2017","All articles covered by WikiProject Wikify","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with GND identifiers",
+"Articles with J9U identifiers","Articles with LCCN identifiers","Articles with NDL identifiers","Abstraction","Concepts in aesthetics","Themes of the Romantic Movement"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Sublime_(philosophy)","wgRelevantArticleId":744036,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgULSCurrentAutonym":"English","wgRelatedArticlesCompat":[],"wgCentralAuthMobileDomain"
+:false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q999803","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","wikibase.sidebar.tracking"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.43.0-wmf.17">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/1200px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1537">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/800px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1024">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/640px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="820">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Sublime (philosophy) - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//en.m.wikipedia.org/wiki/Sublime_(philosophy)">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sublime_(philosophy)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sublime_philosophy rootpage-Sublime_philosophy skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sublime+%28philosophy%29" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sublime+%28philosophy%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sublime+%28philosophy%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sublime+%28philosophy%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice" class="notheme"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Ancient_philosophy"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Ancient_philosophy">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Ancient philosophy</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Ancient_philosophy-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Modern_philosophy"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Modern_philosophy">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Modern philosophy</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Modern_philosophy-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Modern philosophy subsection</span>
+			</button>
+		
+		<ul id="toc-Modern_philosophy-sublist" class="vector-toc-list">
+			<li id="toc-British_philosophy"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#British_philosophy">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>British philosophy</span>
+				</div>
+			</a>
+			
+			<ul id="toc-British_philosophy-sublist" class="vector-toc-list">
+				<li id="toc-Edmund_Burke"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Edmund_Burke">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1.1</span>
+					<span>Edmund Burke</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Edmund_Burke-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-German_philosophy"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#German_philosophy">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>German philosophy</span>
+				</div>
+			</a>
+			
+			<ul id="toc-German_philosophy-sublist" class="vector-toc-list">
+				<li id="toc-Immanuel_Kant"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Immanuel_Kant">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2.1</span>
+					<span>Immanuel Kant</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Immanuel_Kant-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Arthur_Schopenhauer"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Arthur_Schopenhauer">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2.2</span>
+					<span>Arthur Schopenhauer</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Arthur_Schopenhauer-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Georg_Wilhelm_Friedrich_Hegel"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Georg_Wilhelm_Friedrich_Hegel">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2.3</span>
+					<span>Georg Wilhelm Friedrich Hegel</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Georg_Wilhelm_Friedrich_Hegel-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Rudolf_Otto"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Rudolf_Otto">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2.4</span>
+					<span>Rudolf Otto</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Rudolf_Otto-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Contemporary_philosophy"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Contemporary_philosophy">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Contemporary philosophy</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Contemporary_philosophy-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Contemporary philosophy subsection</span>
+			</button>
+		
+		<ul id="toc-Contemporary_philosophy-sublist" class="vector-toc-list">
+			<li id="toc-20th_century"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#20th_century">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.1</span>
+					<span>20th century</span>
+				</div>
+			</a>
+			
+			<ul id="toc-20th_century-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-21st_century"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#21st_century">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.2</span>
+					<span>21st century</span>
+				</div>
+			</a>
+			
+			<ul id="toc-21st_century-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Further_reading"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Further_reading">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Further reading</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>External links</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Sublime (philosophy)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 34 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-34" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">34 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%85%D9%88_(%D9%81%D9%84%D8%B3%D9%81%D8%A9)" title="سمو (فلسفة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Sublime" title="Sublime – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D0%AE%D2%93%D0%B0%D1%80%D1%8B%D0%BB%D1%8B%D2%A1" title="Юғарылыҡ – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Sublim" title="Sublim – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Vzne%C5%A1enost" title="Vznešenost – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Sublim" title="Sublim – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Das_Erhabene" title="Das Erhabene – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/%C3%9Clevus" title="Ülevus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Sublime" title="Sublime – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Sublimo" title="Sublimo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Sublime" title="Sublime – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%88%D8%A7%D9%84%D8%A7_(%D9%81%D9%84%D8%B3%D9%81%D9%87)" title="والا (فلسفه) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Sublime" title="Sublime – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%88%AD%EA%B3%A0" title="숭고 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%A6%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%A4" title="उदात्त – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Sublime" title="Sublime – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%9A%D3%A9%D1%82%D3%A9%D1%80%D2%AF%D2%A3%D0%BA%D2%AF_%D1%81%D0%B5%D0%B7%D0%B8%D0%BC" title="Көтөрүңкү сезим – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Sublimis" title="Sublimis – Latin" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Fens%C3%A9ges" title="Fenséges – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Het_sublieme" title="Het sublieme – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E5%B4%87%E9%AB%98" title="崇高 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Sublim" title="Sublim – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%89%E0%A8%A6%E0%A8%BE%E0%A8%A4_(%E0%A8%A6%E0%A8%B0%E0%A8%B8%E0%A8%BC%E0%A8%A8)" title="ਉਦਾਤ (ਦਰਸ਼ਨ) – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Wznios%C5%82o%C5%9B%C4%87" title="Wzniosłość – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Sublime_(est%C3%A9tica)" title="Sublime (estética) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B2%D1%8B%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5" title="Возвышенное – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Sublime_(philosophy)" title="Sublime (philosophy) – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/%D8%AA%D8%B1%D9%81%D8%B9" title="ترفع – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Subliman_(filozofija)" title="Subliman (filozofija) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Subliimi" title="Subliimi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Sublim" title="Sublim – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Y%C3%BCcelik" title="Yücelik – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B5" title="Піднесене – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%B4%87%E9%AB%98" title="崇高 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q999803#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sublime_(philosophy)" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Sublime_(philosophy)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sublime_(philosophy)"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Sublime_(philosophy)"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Sublime_(philosophy)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Sublime_(philosophy)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Sublime_(philosophy)&amp;oldid=1221919352" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sublime_%28philosophy%29&amp;id=1221919352&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSublime_%28philosophy%29"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSublime_%28philosophy%29"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q999803" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Sublime_%28philosophy%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Sublime_(philosophy)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://en.wikiquote.org/wiki/Sublime_(philosophy)" hreflang="en"><span>Wikiquote</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Quality of greatness</div>
+<style data-mw-deduplicate="TemplateStyles:r1236090951">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</style><div role="note" class="hatnote navigation-not-searchable">"Sublimity" redirects here. For other uses, see <a href="/wiki/Sublimity_(disambiguation)" class="mw-disambig" title="Sublimity (disambiguation)">Sublimity (disambiguation)</a>.</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Sublime_(literary)" title="Sublime (literary)">Sublime (literary)</a></div> 
+<style data-mw-deduplicate="TemplateStyles:r1236091366">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</style><table class="box-Lead_too_short plainlinks metadata ambox ambox-content ambox-lead_too_short" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/File:Wiki_letter_w.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></span></div></td><td class="mbox-text"><div class="mbox-text-span">This article's <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Length" title="Wikipedia:Manual of Style/Lead section">lead section</a> <b>may be too short to adequately <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> the key points</b>.<span class="hide-when-compact"> Please consider expanding the lead to <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of all important aspects of the article.</span>  <span class="date-container"><i>(<span class="date">November 2017</span>)</i></span></div></td></tr></tbody></table>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/220px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg" decoding="async" width="220" height="282" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/330px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/440px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg 2x" data-file-width="2327" data-file-height="2980" /></a><figcaption><a href="/wiki/Caspar_David_Friedrich" title="Caspar David Friedrich">Caspar David Friedrich</a>, <i><a href="/wiki/Wanderer_above_the_Sea_of_Fog" title="Wanderer above the Sea of Fog">Wanderer above the Sea of Fog</a>,</i> 1817, <a href="/wiki/Kunsthalle_Hamburg" class="mw-redirect" title="Kunsthalle Hamburg">Kunsthalle Hamburg</a>. Romantic artists during the 19th century used the epic of nature as an expression of the sublime.</figcaption></figure>
+<p>In <a href="/wiki/Aesthetics" title="Aesthetics">aesthetics</a>, the <b>sublime</b> (from the <a href="/wiki/Latin" title="Latin">Latin</a> <i><a href="https://en.wiktionary.org/wiki/sublimis#Latin" class="extiw" title="wikt:sublimis">sublīmis</a></i>) is the <a href="https://en.wiktionary.org/wiki/quality" class="extiw" title="wikt:quality">quality</a> of greatness, whether <a href="/wiki/Physical_systems" class="mw-redirect" title="Physical systems">physical</a>, <a href="/wiki/Ethics" title="Ethics">moral</a>, <a href="/wiki/Intellectualism" title="Intellectualism">intellectual</a>, <a href="/wiki/Metaphysics" title="Metaphysics">metaphysical</a>, <a href="/wiki/Aesthetic" class="mw-redirect" title="Aesthetic">aesthetic</a>, <a href="/wiki/Spirituality" title="Spirituality">spiritual</a>, or <a href="/wiki/Art" title="Art">artistic</a>. The term especially refers to a greatness beyond all possibility of calculation, measurement, or imitation.
+</p><p>Since its first application in the field of <a href="/wiki/Rhetoric" title="Rhetoric">rhetoric</a> and drama in <a href="/wiki/Ancient_Greece" title="Ancient Greece">ancient Greece</a> it became an important concept not just in philosophical aesthetics but also in <a href="/wiki/Literary_theory" title="Literary theory">literary theory</a> and <a href="/wiki/Art_history" title="Art history">art history</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Ancient_philosophy">Ancient philosophy</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=1" title="Edit section: Ancient philosophy"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The first known study of the <i>sublime</i> is ascribed to <a href="/wiki/Longinus_(literature)" class="mw-redirect" title="Longinus (literature)">Longinus</a>: Peri Hupsous/Hypsous or <i><a href="/wiki/On_the_Sublime" title="On the Sublime">On the Sublime</a></i>. This is thought to have been written in the 1st century AD though its origin and authorship are uncertain. For Longinus, the sublime is an adjective that describes great, elevated, or lofty thought or language, particularly in the context of <a href="/wiki/Rhetoric" title="Rhetoric">rhetoric</a>. As such, the sublime inspires <a href="/wiki/Awe" title="Awe">awe</a> and veneration, with greater persuasive powers. Longinus' treatise is also notable for referring not only to Greek authors such as <a href="/wiki/Homer" title="Homer">Homer</a>, but also to biblical sources such as <a href="/wiki/Book_of_Genesis" title="Book of Genesis">Genesis</a>.
+</p><p>This treatise was rediscovered in the 16th century, and its subsequent impact on aesthetics is usually attributed to its translation into French by linguist <a href="/wiki/Nicolas_Boileau-Despr%C3%A9aux" title="Nicolas Boileau-Despréaux">Nicolas Boileau-Despréaux</a> in 1674. Later the treatise was translated into English by John Pultney in 1680, <a href="/wiki/Leonard_Welsted" title="Leonard Welsted">Leonard Welsted</a> in 1712, and <a href="/wiki/William_Smith_(scholar)" title="William Smith (scholar)">William Smith</a> in 1739 whose translation had its fifth edition in 1800.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Modern_philosophy">Modern philosophy</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=2" title="Edit section: Modern philosophy"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The concept of the sublime emerged in Europe with the birth of <a href="/wiki/Literary_criticism" title="Literary criticism">literary criticism</a> in the late 17th century.<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> It was associated with the works of the French writers <a href="/wiki/Pierre_Corneille" title="Pierre Corneille">Pierre Corneille</a>, <a href="/wiki/Jean_Racine" title="Jean Racine">Jean-Baptiste Racine</a>, <a href="/wiki/Jean-Baptiste_Dubos" title="Jean-Baptiste Dubos">Jean-Baptiste l'Abbé Dubos</a>, and <a href="/wiki/Nicolas_Boileau-Despr%C3%A9aux" title="Nicolas Boileau-Despréaux">Nicolas Boileau-Despréaux</a>.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="British_philosophy">British philosophy</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=3" title="Edit section: British philosophy"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width: 222px;">
+<div class="thumbimage" style="width: 220px; height: 300px; overflow: hidden;">
+<div style="position: relative; top: -0px; left: -0px; width: 250px"><div class="noresize"><span typeof="mw:File"><a href="/wiki/File:Engelberg_01.JPG" class="mw-file-description"><img alt="Hahnen, Swiss Alps. British writers, taking the Grand Tour in the 17th and 18th centuries, first used the sublime to describe objects of nature." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Engelberg_01.JPG/250px-Engelberg_01.JPG" decoding="async" width="250" height="380" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Engelberg_01.JPG/375px-Engelberg_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Engelberg_01.JPG/500px-Engelberg_01.JPG 2x" data-file-width="1927" data-file-height="2927" /></a></span></div></div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Engelberg_01.JPG" title="File:Engelberg 01.JPG"> </a></div><a href="/wiki/Hahnen" title="Hahnen">Hahnen</a>, <a href="/wiki/Swiss_Alps" title="Swiss Alps">Swiss Alps</a>. British writers, taking the <a href="/wiki/Grand_Tour" title="Grand Tour">Grand Tour</a> in the 17th and 18th centuries, first used the sublime to describe objects of nature.
+</div>
+</div>
+</div>
+<p>In Britain, the development of the concept of the sublime as an aesthetic quality in nature distinct from beauty was brought into prominence in the 18th century in the writings of <a href="/wiki/Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury" title="Anthony Ashley-Cooper, 3rd Earl of Shaftesbury">Anthony Ashley-Cooper, 3rd Earl of Shaftesbury</a> and <a href="/wiki/John_Dennis_(dramatist)" title="John Dennis (dramatist)">John Dennis</a>. These authors expressed an appreciation of the fearful and irregular forms of external nature, and <a href="/wiki/Joseph_Addison" title="Joseph Addison">Joseph Addison</a>'s synthesis of concepts of the sublime in his <i><a href="/wiki/The_Spectator_(1711)" title="The Spectator (1711)">The Spectator</a></i>, and later the <i>Pleasures of the Imagination</i>. All three Englishmen had, within the span of several years, made the journey across the <a href="/wiki/Alps" title="Alps">Alps</a> and commented in their writings of the horrors and harmony of the experience, expressing a contrast of aesthetic qualities.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>John Dennis was the first to publish his comments in a journal letter published as <i>Miscellanies</i> in 1693, giving an account of crossing the Alps where, contrary to his prior feelings for the beauty of nature as a "delight that is consistent with reason", the experience of the journey was at once a pleasure to the eye as music is to the ear, but "mingled with Horrours, and sometimes almost with despair".<sup id="cite_ref-Nicolson1974_4-0" class="reference"><a href="#cite_note-Nicolson1974-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> Shaftesbury had made the journey two years prior to Dennis but did not publish his comments until 1709 in the <i>Moralists</i>. His comments on the experience also reflected pleasure and repulsion, citing a "wasted mountain" that showed itself to the world as a "noble ruin" (Part III, Sec. 1, 390&#8211;91), but his concept of the sublime in relation to beauty was one of degree rather than the sharp contradistinction that Dennis developed into a new form of literary criticism. Shaftesbury's writings reflect more of a regard for the awe of the infinity of space ("Space astonishes" referring to the Alps), where the sublime was not an aesthetic quality in opposition to beauty, but a quality of a grander and higher importance than beauty. In referring to the Earth as a "Mansion-Globe" and "Man-Container" Shaftsbury writes "How narrow then must it appear compar'd with the capacious System of its own Sun...tho animated with a sublime Celestial Spirit...." (Part III, sec. 1, 373).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Joseph Addison embarked on the <a href="/wiki/Grand_Tour" title="Grand Tour">Grand Tour</a> in 1699 and commented in <i>Remarks on Several Parts of Italy etc.</i> that "The Alps fill the mind with an agreeable kind of horror".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> The significance of Addison's concept of the sublime is that the three pleasures of the imagination that he identified—greatness, uncommonness, and beauty—"arise from visible objects"; that is, from sight rather than from rhetoric. It is also notable that in writing on the "Sublime in external Nature", he does not use the term "sublime" but uses semi-synonymous terms such as "unbounded", "unlimited", "spacious", "greatness", and on occasion terms denoting excess.<sup id="cite_ref-Nicolson1974_4-1" class="reference"><a href="#cite_note-Nicolson1974-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The British description of the sublime has been described as distinct from the Kantian conceptualization, which emphasized a detachment of aesthetic judgment.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> The British tradition is noted for its rejection of the idea that aesthetic judgment and ethical conduct are not connected. One of its positions holds that the affective register of the sublime is not divorced from the standards that govern human conduct and that it does not transcend ethical conduct. 
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Edmund_Burke">Edmund Burke</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=4" title="Edit section: Edmund Burke"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Addison's notion of greatness was integral to the concept of sublimity. An object of art could be beautiful yet it could not possess greatness. His <i>Pleasures of the Imagination</i>, as well as <a href="/wiki/Mark_Akenside" title="Mark Akenside">Mark Akenside's</a> <i><a href="/wiki/Pleasures_of_the_Imagination" class="mw-redirect" title="Pleasures of the Imagination">Pleasures of the Imagination</a></i> of 1744 and <a href="/wiki/Edward_Young" title="Edward Young">Edward Young's</a> poem <i><a href="/wiki/Night_Thoughts_(poem)" class="mw-redirect" title="Night Thoughts (poem)">Night Thoughts</a></i> of 1745 are generally considered the starting points for <a href="/wiki/Edmund_Burke" title="Edmund Burke">Edmund Burke's</a> analysis of sublimity.
+</p><p><a href="/wiki/Edmund_Burke" title="Edmund Burke">Edmund Burke</a> developed his conception of sublimity in <i><a href="/wiki/A_Philosophical_Enquiry_into_the_Origin_of_Our_Ideas_of_the_Sublime_and_Beautiful" title="A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful">A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</a></i> of 1756.<sup id="cite_ref-Nicolson1974_4-2" class="reference"><a href="#cite_note-Nicolson1974-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> Burke was the first <a href="/wiki/Philosopher" class="mw-redirect" title="Philosopher">philosopher</a> to argue that sublimity and beauty are <i>mutually exclusive</i>. The dichotomy that Burke articulated is not as simple as Dennis' opposition, and is antithetical in the same degree as light and darkness. Light may accentuate beauty, but either great light or darkness, i. e., the absence of light, is sublime to the extent that it can annihilate vision of the object in question. What is "dark, uncertain, and confused"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> moves the imagination to awe and a degree of horror. While the relationship of sublimity and beauty is one of mutual exclusivity, either can provide pleasure. Sublimity may evoke horror, but knowledge that the perception is a fiction is pleasureful.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Burke's concept of sublimity was an antithetical contrast to the classical conception of the aesthetic quality of beauty being the pleasurable experience that <a href="/wiki/Plato" title="Plato">Plato</a> described in several of his dialogues, e. g. <i><a href="/wiki/Philebus" title="Philebus">Philebus</a></i>, <i><a href="/wiki/Ion_(dialogue)" title="Ion (dialogue)">Ion</a></i>, <i><a href="/wiki/Hippias_major" class="mw-redirect" title="Hippias major">Hippias Major</a></i>, and <i><a href="/wiki/Symposium_(Plato)" title="Symposium (Plato)">Symposium</a></i>, and suggested that ugliness is an aesthetic quality in its capacity to instill intense emotions, ultimately providing pleasure.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> For <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>, the function of artistic forms was to instill pleasure, and he first pondered the problem that an object of art representing ugliness produces "pain." Aristotle's detailed analysis of this problem involved his study of tragic literature and its paradoxical nature as both shocking and having poetic value.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> The classical notion of ugliness prior to Edmund Burke, most notably described in the works of <a href="/wiki/Augustine_of_Hippo" title="Augustine of Hippo">Saint Augustine of Hippo</a>, denoted it as the absence of form and therefore as a degree of non-existence. For St. Augustine, beauty is the result of the benevolence and goodness of God in His creation, and as a category it had no opposite. Because ugliness lacks any attributive value, it is formless due to the absence of beauty.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Burke's treatise is also notable for focusing on the <a href="/wiki/Physiology" title="Physiology">physiological</a> effects of sublimity, in particular the dual emotional quality of fear and attraction that other authors noted. Burke described the sensation attributed to sublimity as a <i>negative pain</i>, which he denominated "delight" and which is distinct from positive pleasure. "Delight" is thought to result from the removal of pain, caused by confronting a sublime object, and supposedly is more intense than positive pleasure. Though Burke's explanations for the physiological effects of sublimity, e. g. tension resulting from eye strain, were not seriously considered by later authors, his <a href="/wiki/Empiricism" title="Empiricism">empirical</a> method of reporting his own psychological experience was more influential, especially in contrast to the analysis of <a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a>. Burke is also distinguished from Kant in his emphasis on the subject's realization of his physical limitations rather than any supposed sense of moral or spiritual transcendence.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="German_philosophy">German philosophy</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=5" title="Edit section: German philosophy"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading4"><h4 id="Immanuel_Kant">Immanuel Kant</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=6" title="Edit section: Immanuel Kant"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236090951"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Immanuel_Kant#Aesthetic_philosophy" title="Immanuel Kant">Immanuel Kant §&#160;Aesthetic philosophy</a></div>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:St-peter%27s-viviano-codazzi-prado-1630.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/St-peter%27s-viviano-codazzi-prado-1630.jpg/220px-St-peter%27s-viviano-codazzi-prado-1630.jpg" decoding="async" width="220" height="169" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/St-peter%27s-viviano-codazzi-prado-1630.jpg/330px-St-peter%27s-viviano-codazzi-prado-1630.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/St-peter%27s-viviano-codazzi-prado-1630.jpg/440px-St-peter%27s-viviano-codazzi-prado-1630.jpg 2x" data-file-width="6400" data-file-height="4905" /></a><figcaption><a href="/wiki/Viviano_Codazzi" title="Viviano Codazzi">Viviano Codazzi</a>: Rendition of <a href="/wiki/St._Peter%27s_Square" title="St. Peter&#39;s Square">St. Peter's Square</a>, Rome, dated 1630. Kant referred to St. Peter's as "splendid", a term he used for objects producing feeling for both the beautiful and the sublime.</figcaption></figure>
+<p><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a>, in 1764, made an attempt to record his thoughts on the observing subject's mental state in <i><a href="/wiki/Observations_on_the_Feeling_of_the_Beautiful_and_Sublime" title="Observations on the Feeling of the Beautiful and Sublime">Observations on the Feeling of the Beautiful and Sublime</a></i>. He held that the sublime was of three kinds: the noble, the splendid, and the terrifying.
+</p><p>In his <i><a href="/wiki/Critique_of_Judgment" title="Critique of Judgment">Critique of Judgment</a></i> (1790),<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup> Kant officially says that there are two forms of the sublime, the mathematical and the dynamical, although some commentators hold that there is a third form, the moral sublime, a hold-over from the earlier "noble" sublime.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> Kant claims, "We call that sublime which is absolutely great"(§ 25). He distinguishes between the "remarkable differences" of the Beautiful and the Sublime, noting that beauty "is connected with the form of the object", having "boundaries", while the sublime "is to be found in a formless object", represented by a "boundlessness" (§ 23). Kant evidently divides the sublime into the mathematical and the dynamical, where in the mathematical "aesthetical comprehension" is not a consciousness of a mere greater unit, but the notion of absolute greatness not inhibited with ideas of limitations (§ 27). The dynamically sublime is "nature considered in an aesthetic judgment as might that has no dominion over us", and an object can create a fearfulness "without being afraid <i>of</i> it" (§ 28). He considers both the beautiful and the sublime as "indefinite" concepts, but where beauty relates to the "Understanding", sublime is a concept belonging to "Reason", and "shows a faculty of the mind surpassing every standard of Sense" (§ 25). For Kant, one's inability to grasp the magnitude of a sublime event such as an earthquake demonstrates inadequacy of one's sensibility and imagination. Simultaneously, one's ability to subsequently identify such an event as singular and whole indicates the superiority of one's cognitive, supersensible powers. Ultimately, it is this "supersensible substrate," underlying both nature and thought, on which true sublimity is located.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Arthur_Schopenhauer">Arthur Schopenhauer</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=7" title="Edit section: Arthur Schopenhauer"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>To clarify the concept of the feeling of the sublime, <a href="/wiki/Arthur_Schopenhauer" title="Arthur Schopenhauer">Arthur Schopenhauer</a> listed examples of its transition from the beautiful to the most sublime. This can be found in the first volume of his <i><a href="/wiki/The_World_as_Will_and_Representation" title="The World as Will and Representation">The World as Will and Representation</a></i>, § 39.
+</p><p>For him, the feeling of the beautiful is in seeing an object that invites the observer to transcend individuality, and simply observe the idea underlying the object. The feeling of the sublime, however, is when the object does not invite such contemplation but instead is an overpowering or vast malignant object of great magnitude, one that could destroy the observer.
+</p>
+<ul><li><i>Feeling of Beauty</i> &#8211; Light is reflected off a flower. (Pleasure from a mere perception of an object that cannot hurt observer).</li>
+<li><i>Weakest Feeling of Sublime</i> &#8211; Light reflected off stones. (Pleasure from beholding objects that pose no threat, objects devoid of life).</li>
+<li><i>Weaker Feeling of Sublime</i> &#8211; Endless desert with no movement. (Pleasure from seeing objects that could not sustain the life of the observer).</li>
+<li><i>Sublime</i> &#8211; Turbulent Nature. (Pleasure from perceiving objects that threaten to hurt or destroy observer).</li>
+<li><i>Full Feeling of Sublime</i> &#8211; Overpowering turbulent Nature. (Pleasure from beholding very violent, destructive objects).</li>
+<li><i>Fullest Feeling of Sublime</i> &#8211; Immensity of Universe's extent or duration. (Pleasure from knowledge of observer's nothingness and oneness with Nature).</li></ul>
+<div class="mw-heading mw-heading4"><h4 id="Georg_Wilhelm_Friedrich_Hegel">Georg Wilhelm Friedrich Hegel</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=8" title="Edit section: Georg Wilhelm Friedrich Hegel"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">Georg Wilhelm Friedrich Hegel</a> considered the sublime a marker of cultural difference and a characteristic feature of oriental art. His <a href="/wiki/Teleology" title="Teleology">teleological</a> view of history meant that he considered "oriental" cultures as less developed, more <a href="/wiki/Autocracy" title="Autocracy">autocratic</a> in terms of their political structures and more fearful of <a href="/wiki/God" title="God">divine law</a>. According to his reasoning, this meant that oriental artists were more inclined towards the aesthetic and the sublime: they could engage God only through <a href="/wiki/Aufheben" title="Aufheben">"sublated"</a> means. He believed that the excess of intricate detail that is characteristic of <a href="/wiki/Chinese_art" title="Chinese art">Chinese art</a>, or the dazzling metrical patterns characteristic of <a href="/wiki/Islamic_art" title="Islamic art">Islamic art</a>, were typical examples of the sublime and argued that the disembodiment and formlessness of these art forms inspired the viewer with an overwhelming aesthetic sense of awe.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Rudolf_Otto">Rudolf Otto</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=9" title="Edit section: Rudolf Otto"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/Rudolf_Otto" title="Rudolf Otto">Rudolf Otto</a> compared the sublime with his newly coined concept of the <a href="/wiki/Numinous" title="Numinous">numinous</a>. The numinous comprises terror, <i>Tremendum</i>, but also a strange fascination, <i>Fascinans</i>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Contemporary_philosophy">Contemporary philosophy</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=10" title="Edit section: Contemporary philosophy"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="20th_century">20th century</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=11" title="Edit section: 20th century"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:SMSMS.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/SMSMS.JPG/220px-SMSMS.JPG" decoding="async" width="220" height="202" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/SMSMS.JPG/330px-SMSMS.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/SMSMS.JPG/440px-SMSMS.JPG 2x" data-file-width="572" data-file-height="525" /></a><figcaption> <a href="/wiki/Maurizio_Bolognini" title="Maurizio Bolognini">Maurizio Bolognini</a>, <i>SMSMS (SMS Mediated Sublime</i>), 2000–2006, an interactive installation that aims to involve the audience in the experience of the manipulation and consumption of the <i>technological sublime</i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> <sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup></figcaption></figure>
+<p>At the beginning of the 20th century <a href="/wiki/Neo-Kantian" class="mw-redirect" title="Neo-Kantian">Neo-Kantian</a> German philosopher and theorist of aesthetics <a href="/wiki/Max_Dessoir" title="Max Dessoir">Max Dessoir</a> founded the <i>Zeitschrift für Ästhetik und allgemeine Kunstwissenschaft</i>, which he edited for many years, and published the work <i>Ästhetik und allgemeine Kunstwissenschaft</i> in which he formulated five primary aesthetic forms: the beautiful, the sublime, the tragic, the ugly, and the comic.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The experience of the sublime involves a self-forgetfulness where personal fear is replaced by a sense of well-being and security when confronted with an object exhibiting superior might, and is similar to the experience of the tragic. The "tragic consciousness" is the capacity to gain an exalted state of consciousness from the realization of the unavoidable suffering destined for all men and that there are oppositions in life that can never be resolved, most notably that of the "forgiving generosity of deity" subsumed to "inexorable fate".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Thomas Weiskel re-examined Kant's aesthetics and the Romantic conception of the sublime through the prism of <a href="/wiki/Semiotics" title="Semiotics">semiotic theory</a> and <a href="/wiki/Psychoanalysis" title="Psychoanalysis">psychoanalysis</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup> He argued that Kant's "mathematical sublime" could be seen in semiotic terms as the presence of an excess of <a href="/wiki/Sign_(semiotics)" title="Sign (semiotics)">signifiers</a>, a monotonous infinity threatens to dissolve all oppositions and distinctions. The "dynamic sublime", on the other hand, was an excess of signifieds: meaning was always <a href="/wiki/Overdetermination" title="Overdetermination">overdetermined</a>.
+</p><p>According to <a href="/wiki/Jean-Fran%C3%A7ois_Lyotard" title="Jean-François Lyotard">Jean-François Lyotard</a>, the sublime, as a theme in aesthetics, was the founding move of the <a href="/wiki/Modernist" class="mw-redirect" title="Modernist">Modernist</a> period.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup> Lyotard argued that the modernists attempted to replace the beautiful with the release of the perceiver from the constraints of the human condition. For him, the sublime's significance is in the way it points to an <i><a href="/wiki/Aporia" title="Aporia">aporia</a></i> (impassable doubt) in human reason; it expresses the edge of our conceptual powers and reveals the multiplicity and instability of the <a href="/wiki/Postmodernity" title="Postmodernity">postmodern world</a>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="21st_century">21st century</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=12" title="Edit section: 21st century"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>According to <a href="/wiki/Mario_Costa_(philosopher)" title="Mario Costa (philosopher)">Mario Costa</a>, the concept of the sublime should be examined first of all in relation to the epochal novelty of digital technologies, and technological artistic production: <a href="/wiki/New_media_art" title="New media art">new media art</a>, <a href="/wiki/Computer_generated_art" class="mw-redirect" title="Computer generated art">computer-based</a> <a href="/wiki/Generative_art" title="Generative art">generative art</a>, networking, telecommunication art.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup> For him, the new technologies are creating conditions for a new kind of sublime: the "technological sublime". The traditional categories of aesthetics (beauty, meaning, expression, feeling) are being replaced by the notion of the sublime, which after being "natural" in the 18th century, and "metropolitan-industrial" in the modern era, has now become technological.
+</p><p>There has also been some resurgence of interest in the sublime in <a href="/wiki/Analytic_philosophy" title="Analytic philosophy">analytic philosophy</a> since the early 1990s, with occasional articles in <i>The Journal of Aesthetics and Art Criticism</i> and <i>The British Journal of Aesthetics</i>, as well as monographs by writers such as Malcolm Budd, James Kirwan and Kirk Pillow. As in the postmodern or critical theory tradition, analytic philosophical studies often begin with accounts of Kant or other philosophers of the 18th or early 19th centuries. Noteworthy is a general theory of the sublime, in the tradition of Longinus, Burke and Kant, in which <a href="/wiki/Tsang_Lap_Chuen" title="Tsang Lap Chuen">Tsang Lap Chuen</a> presents the notion of limit-situations in  life as being central to the human experience.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup>
+</p><p><a href="/wiki/Jadranka_Skorin-Kapov" title="Jadranka Skorin-Kapov">Jadranka Skorin-Kapov</a> in <i>The Intertwining of Aesthetics and Ethics: Exceeding of Expectations, Ecstasy, Sublimity</i><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span class="cite-bracket">&#91;</span>27<span class="cite-bracket">&#93;</span></a></sup> argues for sublimity as the common root to aesthetics and ethics, "The origin of surprise is the break (the pause, the rupture) between one's sensibility and one's powers of representation... The recuperation that follows the break between one's sensibility and one's representational capability leads to sublimity and the subsequent feelings of admiration and/or responsibility, allowing for the intertwining of aesthetics and ethics... The roles of aesthetics and ethics—that is, the roles of artistic and moral judgments, are very relevant to contemporary society and business practices, especially in light of the technological advances that have resulted in the explosion of visual culture and in the mixture of awe and apprehension as we consider the future of humanity."
+</p>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=13" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/Digital_sublime" title="Digital sublime">Digital sublime</a></li>
+<li><a href="/wiki/Numinous" title="Numinous">Numinous</a></li>
+<li><a href="/wiki/Overview_effect" title="Overview effect">Overview effect</a></li>
+<li><a href="/wiki/Sense_of_wonder" title="Sense of wonder">Sense of wonder</a></li>
+<li><a href="/wiki/Sublime_(literary)" title="Sublime (literary)">Sublime (literary)</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="References">References</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=14" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1239543626">.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width reflist-columns-2">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1238218222">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite id="CITEREFDoran2017" class="citation book cs1">Doran, Robert (2017). <i>The Theory of the Sublime from Longinus to Kant</i>. Cambridge, UK: Cambridge University Press. p.&#160;1. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-107-10153-1" title="Special:BookSources/978-1-107-10153-1"><bdi>978-1-107-10153-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Theory+of+the+Sublime+from+Longinus+to+Kant&amp;rft.place=Cambridge%2C+UK&amp;rft.pages=1&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2017&amp;rft.isbn=978-1-107-10153-1&amp;rft.aulast=Doran&amp;rft.aufirst=Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASublime+%28philosophy%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFCostelloe2013" class="citation book cs1">Costelloe, Timothy M. (2013). <i>The British Aesthetic Tradition: From Shaftesbury to Wittgenstein</i>. New York: Cambridge University Press. p.&#160;4. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-51830-7" title="Special:BookSources/978-0-521-51830-7"><bdi>978-0-521-51830-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+British+Aesthetic+Tradition%3A+From+Shaftesbury+to+Wittgenstein&amp;rft.place=New+York&amp;rft.pages=4&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2013&amp;rft.isbn=978-0-521-51830-7&amp;rft.aulast=Costelloe&amp;rft.aufirst=Timothy+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASublime+%28philosophy%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Nicolson, Marjorie Hope. <i>Mountain Gloom and Mountain Glory</i>. Ithaca, 1959</span>
+</li>
+<li id="cite_note-Nicolson1974-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nicolson1974_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nicolson1974_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Nicolson1974_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Nicolson, Marjorie Hope. "Sublime in External Nature". <i>Dictionary of the History of Ideas</i>. New York, 1974.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Cooper, Anthony Ashley, Third Earl of Shaftesbury. <i>The Moralists: A Philosophical Rhapsody</i>. 1709.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Joseph Addison, <i>Remarks on Several Parts of Italy etc. in the years 1701, 1702, 1703</i>. 1773 edition, printed for T. Walker. Chapter on ‘Geneva and the Lake’: 261 Located on Google books, accessed 11.12.07</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFAshfieldde_Bolla1998" class="citation book cs1">Ashfield, Andrew; de Bolla, Peter (1998). <i>The Sublime: A Reader in British Eighteenth-Century Aesthetic Theory</i>. New York: Cambridge University Press. p.&#160;3. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-39545-3" title="Special:BookSources/0-521-39545-3"><bdi>0-521-39545-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Sublime%3A+A+Reader+in+British+Eighteenth-Century+Aesthetic+Theory&amp;rft.place=New+York&amp;rft.pages=3&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1998&amp;rft.isbn=0-521-39545-3&amp;rft.aulast=Ashfield&amp;rft.aufirst=Andrew&amp;rft.au=de+Bolla%2C+Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASublime+%28philosophy%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/Edmund_Burke" title="Edmund Burke">Edmund Burke</a>, <i><a href="/wiki/A_Philosophical_Enquiry_into_the_Origin_of_Our_Ideas_of_the_Sublime_and_Beautiful" title="A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful">A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</a></i>, Part 1, Section 7: "Whatever is fitted in any sort to excite the ideas of pain, and danger, that is to say, whatever is in any sort terrible, or is conversant about terrible objects, or operates in a manner analogous to terror, is a source of the <i>sublime</i>; that is, it is productive of the strongest emotion which the mind is capable of feeling...." In Part 2, Section 2, Burke wrote that "terror is in all cases whatsoever, either more openly or latently, the ruling principle of the sublime."</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Monroe C. Beardsley, "History of Aesthetics", <i>Encyclopedia of Philosophy</i>, Volume 1, p. 27 (Macmillan, 1973). But Edmund Burke disagreed: "Nor is it, either in real or fictitious distresses, our immunity from them which produces our delight ... it is absolutely necessary that my life should be out of any imminent hazard, before I can take a delight in the sufferings of others, real or imaginary ... it is a sophism to argue from thence, that this immunity is the cause of my delight". (<i><a href="/wiki/A_Philosophical_Inquiry_into_the_Origin_of_Our_Ideas_of_the_Sublime_and_Beautiful" class="mw-redirect" title="A Philosophical Inquiry into the Origin of Our Ideas of the Sublime and Beautiful">A Philosophical Inquiry into the Origin of Our Ideas of the Sublime and Beautiful</a></i>, Part 1, Section 15)</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Jerome Stolnitz, "Ugliness", <i>Encyclopedia of Philosophy</i> (McMillan, 1973).</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Monroe C. Beardsley, "History of Aesthetics", <i>Encyclopedia of Philosophy</i>, Volume 1, p. 20 (Macmillan, 1973).</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Jerome Stolnitz, "Ugliness", <i>Encyclopedia of Philosophy</i> (McMillan, 1973). Also, Monroe C. Beardsley, "History of Aesthetics", <i>Encyclopedia of Philosophy</i>, Volume 1, p. 22 (Macmillan, 1973).</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Vanessa L. Ryan, "The Physiological Sublime: Burke’s Critique of Reason", <i>Journal of the History of Ideas</i>, Volume 62, Number 1 (April 2001).</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Kant, Immanuel. <i>Critique of Judgment</i>. Trans. J.H. Bernard. Macmillan, 1951.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Clewis, Robert. 2009. <i>The Kantian Sublime and the Revelation of Freedom</i>. Cambridge: Cambridge University Press. <a rel="nofollow" class="external free" href="http://www.cambridge.org/us/knowledge/isbn/item2326741/?site_locale=en_US">http://www.cambridge.org/us/knowledge/isbn/item2326741/?site_locale=en_US</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Kant, Immanuel. <i>Critique of Judgment</i>. Trans. J.H. Bernard. Macmillan, 1951. Translator's introduction and notes to the <i>Critique of Judgment</i></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Hegel, G.W.F. <i>Aesthetics: Lectures on Fine Art.</i> Translated by T.M. Know. Oxford: Clarendon, 1975.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFBolognini2004" class="citation journal cs1"><a href="/wiki/Maurizio_Bolognini" title="Maurizio Bolognini">Bolognini, Maurizio</a> (April 2004). "The SMSMS Project: Collective Intelligence Machines in the Digital City". <i>Leonardo</i>. <b>37</b> (2): 147–149. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1162%2F0024094041139247">10.1162/0024094041139247</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:57569240">57569240</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Leonardo&amp;rft.atitle=The+SMSMS+Project%3A+Collective+Intelligence+Machines+in+the+Digital+City&amp;rft.volume=37&amp;rft.issue=2&amp;rft.pages=147-149&amp;rft.date=2004-04&amp;rft_id=info%3Adoi%2F10.1162%2F0024094041139247&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A57569240%23id-name%3DS2CID&amp;rft.aulast=Bolognini&amp;rft.aufirst=Maurizio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASublime+%28philosophy%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"> Maurizio Bolognini, "De l'interaction à la démocratie. Vers un art génératif post-digital" / <a rel="nofollow" class="external text" href="http://www.bolognini.org/lectures/amx.htm">"From interactivity to democracy. Towards a post-digital generative art"</a>, <i>Artmedia X Proceedings</i>. Paris 2010.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">The last decades of the 19th century saw the rise of <i>Kunstwissenschaft</i>, or the "science of art"—a movement to discern laws of aesthetic appreciation and arrive at a scientific approach to aesthetic experience: Stolnitz, Jerome. "Beauty". In <i>Encyclopedia of Philosophy</i>. Vol. 1, p. 266. Macmillan (1973).</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Emery, Stephen A.. "Dessoir, Max". In <i>Encyclopedia of Philosophy</i>. Vol. 2, p. 355. Macmillan (1973).</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Emery, Stephen A.. "Dessoir, Max". In <i>Encyclopedia of Philosophy</i>. Vol. 2, p. 356. Macmillan (1973).</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Weiskel, Thomas. <i>The Romantic Sublime </i> (Baltimore: Johns Hopkins University Press, 1976)</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Lyotard, Jean-François. <i>Lessons on the Analytic of the Sublime</i>. Trans. Elizabeth Rottenberg. Stanford University Press, 1994. Lyotard expresses his own elements of the sublime but recommends <i>Kant's Critique of Judgment</i>, §23&#8211;§29 as a preliminary reading requirement to understanding his analysis.</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMario_Costa1994" class="citation cs2 cs1-prop-foreign-lang-source"><a href="/wiki/Mario_Costa_(philosopher)" title="Mario Costa (philosopher)">Mario Costa</a> (1994) [1990], <i>Le sublime technologique</i> (in French), Lausanne: IDERIVE, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/88-88091-85-8" title="Special:BookSources/88-88091-85-8"><bdi>88-88091-85-8</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Le+sublime+technologique&amp;rft.place=Lausanne&amp;rft.pub=IDERIVE&amp;rft.date=1994&amp;rft.isbn=88-88091-85-8&amp;rft.au=Mario+Costa&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASublime+%28philosophy%29" class="Z3988"></span>. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMario_Costa2006" class="citation cs2 cs1-prop-foreign-lang-source"><a href="/wiki/Mario_Costa_(philosopher)" title="Mario Costa (philosopher)">Mario Costa</a> (2006), <a rel="nofollow" class="external text" href="http://www.francoangeli.it/Ricerca/Scheda_Libro.asp?ID=12843&amp;Tipo=Libro&amp;strRicercaTesto=&amp;titolo=dimenticare+l++arte%2E+nuovi+orientamenti+nella+teoria+e+nella+sperimentazione+estetica"><i>Dimenticare l'arte</i></a> (in Italian), Milan: Franco Angeli, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-88-464-6364-7" title="Special:BookSources/978-88-464-6364-7"><bdi>978-88-464-6364-7</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dimenticare+l%27arte&amp;rft.place=Milan&amp;rft.pub=Franco+Angeli&amp;rft.date=2006&amp;rft.isbn=978-88-464-6364-7&amp;rft.au=Mario+Costa&amp;rft_id=http%3A%2F%2Fwww.francoangeli.it%2FRicerca%2FScheda_Libro.asp%3FID%3D12843%26Tipo%3DLibro%26strRicercaTesto%3D%26titolo%3Ddimenticare%2Bl%2B%2Barte%252E%2Bnuovi%2Borientamenti%2Bnella%2Bteoria%2Be%2Bnella%2Bsperimentazione%2Bestetica&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASublime+%28philosophy%29" class="Z3988"></span>.</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Tsang, Lap Chuen. <i>The Sublime: Groundwork towards a Theory</i>. University of Rochester Press, 1998.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFSkorin-Kapov2016" class="citation book cs1">Skorin-Kapov, Jadranka (2016). <i>The Intertwining of Aesthetics and Ethics: Exceeding of Expectations, Ecstasy, Sublimity</i>. Lanham, MD: Lexington Books. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4985-2456-8" title="Special:BookSources/978-1-4985-2456-8"><bdi>978-1-4985-2456-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Intertwining+of+Aesthetics+and+Ethics%3A+Exceeding+of+Expectations%2C+Ecstasy%2C+Sublimity&amp;rft.place=Lanham%2C+MD&amp;rft.pub=Lexington+Books&amp;rft.date=2016&amp;rft.isbn=978-1-4985-2456-8&amp;rft.aulast=Skorin-Kapov&amp;rft.aufirst=Jadranka&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASublime+%28philosophy%29" class="Z3988"></span></span>
+</li>
+</ol></div>
+<div class="mw-heading mw-heading2"><h2 id="Further_reading">Further reading</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=15" title="Edit section: Further reading"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/Addison,_Joseph" class="mw-redirect" title="Addison, Joseph">Addison, Joseph</a>. <i>The Spectator</i>. Ed. Donald E. Bond. Oxford, 1965.</li>
+<li>Beidler. P. G. ‘The Postmodern Sublime: Kant and Tony Smith’s Anecdote of the Cube’. <i>The Journal of Aesthetics and Art Criticism</i>, Vol. 53, No. 2 (Spring 1995): 177&#8211;186.</li>
+<li>Brady, E. ‘Imagination and the Aesthetic Appreciation of Nature’. <i>The Journal of Aesthetics and Art Criticism</i>, Vol. 56, No. 2 (Spring 1998): 139&#8211;147.</li>
+<li>Brett, R.L. <i>The Third Earl of Shaftesbury</i>. London, 1951. ASIN: B0007IYKBU</li>
+<li>Budd, M. <i>The Aesthetic Appreciation of Nature</i>. Oxford, Oxford University Press, 2003.</li>
+<li>Burke, Edmund. <i><a href="/wiki/A_Philosophical_Enquiry_into_the_Origin_of_Our_Ideas_of_the_Sublime_and_Beautiful" title="A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful">A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</a></i>. London, 1958. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-935005-28-5" title="Special:BookSources/0-935005-28-5">0-935005-28-5</a></li>
+<li>Clewis, Robert, ed. <i><a rel="nofollow" class="external text" href="https://www.bloomsbury.com/us/the-sublime-reader-9781350030152/">The Sublime Reader</a></i>. London: Bloomsbury Academic, 2019.</li>
+<li><a href="/w/index.php?title=Clewis,_Robert&amp;action=edit&amp;redlink=1" class="new" title="Clewis, Robert (page does not exist)">Clewis, Robert</a>, ed. <i>The Kantian Sublime and the Revelation of Freedom</i>. Cambridge: Cambridge University Press, 2009.</li>
+<li>Collingwood, R.G. <i>The Idea of Nature</i>. Oxford, 1945. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-313-25166-5" title="Special:BookSources/0-313-25166-5">0-313-25166-5</a></li>
+<li>Cooper, Anthony Ashley, Third Earl of Shaftesbury. <i>The Moralists: A Philosophical Rhapsody</i>, in <i><a href="/wiki/Characteristicks" class="mw-redirect" title="Characteristicks">Characteristicks</a></i>, Vol. II. Ed. John M. Robertson. London, 1900.</li>
+<li>Crowther, P. <i>How Pictures Complete Us; The Beautiful, the Sublime and the Divine</i>. Stanford University Press, 2016. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-80479846-4" title="Special:BookSources/978-0-80479846-4">978-0-80479846-4</a></li>
+<li>de Bolla, P. <i>The Discourse of the Sublime</i>. Basil Blackwell, 1989.</li>
+<li>Dennis, John. <i>Miscellanies in Verse and Prose</i>, in <i>Critical Works</i>, Vol. II. Ed. Edward Niles Hooker. Baltimore, 1939&#8211;1943. ASIN: B0007E9YR4</li>
+<li>Doran, Robert. ‘Literary History and the Sublime in Erich Auerbach’s Mimesis’. <i>New Literary History</i> 38.2 (2007): 353–369.</li>
+<li>Doran, Robert. <i>The Theory of the Sublime from Longinus to Kant</i>. Cambridge: Cambridge University Press, 2015. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/959033482">959033482</a></li>
+<li>Dessoir, Max. <i>Aesthetics and theory of art. Ästhetik und allgemeine Kunstwissenschaft</i>. Translated by Stephen A. Emery. With a foreword by Thomas Munro. Detroit, Wayne State University Press, 1970. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8143-1383-3" title="Special:BookSources/0-8143-1383-3">0-8143-1383-3</a></li>
+<li>Duffy, C. <i>Shelley and the revolutionary sublime</i>. Cambridge, 2005.</li>
+<li>Ferguson, F. <i>Solitude and the Sublime: romanticism and the aesthetics of individuation</i>. <a href="/wiki/Routledge" title="Routledge">Routledge</a>, 1992.</li>
+<li>Fisher, P. <i>Wonder, the rainbow and the aesthetics of rare experiences</i>. Harvard University Press, 1999.</li>
+<li>Fudge, R. S. ‘Imagination and the Science-Based Aesthetic Appreciation of Unscenic Nature’. <i>The Journal of Aesthetics and Art Criticism</i>, Vol. 59, No. 3 (Summer 2001): 275&#8211;285.</li>
+<li>Gilbert-Rolfe, Jeremy. "Beauty and the Contemporary Sublime," Allworth Press, 1999.</li>
+<li>Hipple, Walter John, Jr. <i>The Beautiful, the Sublime, and the Picturesque in Eighteenth-Century British Aesthetic Theory</i>. Carbondale, IL, 1957.</li>
+<li>Kant, Immanuel. <a href="/wiki/Critique_of_Judgment" title="Critique of Judgment">Critique of Judgment</a>. Trans. J.H. Bernard. Macmillan, 1951.</li>
+<li>Kant, Immanuel. <i><a href="/wiki/Observations_on_the_Feeling_of_the_Beautiful_and_Sublime" title="Observations on the Feeling of the Beautiful and Sublime">Observations on the Feeling of the Beautiful and Sublime</a></i>. Translated by John T. Goldthwaite. University of California Press, 2003. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-520-24078-2" title="Special:BookSources/0-520-24078-2">0-520-24078-2</a></li>
+<li>Kaplama, Erman. <i>Cosmological Aesthetics through the Kantian Sublime and Nietzschean Dionysian</i>. Lanham: UPA, Rowman &amp; Littlefield, 2014.</li>
+<li>Kirwan, J. (2005). <i>Sublimity: The Non-Rational and the Irrational in the History of Aesthetics</i>. Routledge, 2005.</li>
+<li>Lyotard, Jean-François. <i>Lessons on the Analytic of the Sublime</i>. Trans. Elizabeth Rottenberg. Stanford University Press, 1994.</li>
+<li>Monk, Samuel H. <i>The Sublime: A Study of Critical Theories in XVIII-Century England</i>. Ann Arbor: University of Michigan Press, 1935/1960.</li>
+<li><a href="/wiki/Marjorie_Hope_Nicolson" title="Marjorie Hope Nicolson">Nicolson, Marjorie Hope</a>. <i>Mountain Gloom and Mountain Glory</i>. Ithaca, 1959. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-295-97577-6" title="Special:BookSources/0-295-97577-6">0-295-97577-6</a></li>
+<li>Navon, Mois. "Sublime Tekhelet". <a rel="nofollow" class="external text" href="http://www.divreinavon.com/pdf/SublimeTekhelet.pdf">The Writings of Mois Navon</a></li>
+<li>Nicolson, Marjorie Hope. "Sublime in External Nature". <i>Dictionary of the History of Ideas</i>. New York, 1974.</li>
+<li>Noel, J. ‘Space, Time and the Sublime in Hume’s Treatise’. <i>British Journal of Aesthetics</i>, Vol. 34, No. 3, July 1994: 218&#8211;225.</li>
+<li>Pillow, K. <i>Sublime Understanding: Aesthetic Reflection in Kant and Hegel</i>. MIT Press, 2000.</li>
+<li>Ryan, V. (2001). 'The physiological sublime: Burke's critique of reason'. <i>Journal of the history of ideas</i>, vol. 62, no. 2 (2001): 265&#8211;279.</li>
+<li><a href="/wiki/George_Santayana" title="George Santayana">George Santayana</a>. <i>The Sense of Beauty. Being the Outlines of Aesthetic Theory</i>. New York, Modern Library, 1955. Pp.&#160;230–240.</li>
+<li>Saville, A. ‘Imagination and Aesthetic Value’. <i>British Journal of Aesthetics</i>, Vol. 46, No. 3, July 2006: 248&#8211;258.</li>
+<li>Shaw, P. <i>The Sublime</i>. Routledge, 2006.</li>
+<li>Shusterman, R. ‘Somaesthetics and Burke’s Sublime’. <i>British Journal of Aesthetics</i>, Vol. 45, No. 4, October 2005: 323&#8211;341.</li>
+<li><a href="/wiki/Guy_Sircello" title="Guy Sircello">Sircello, Guy</a>, ‘How is a Theory of the Sublime Possible?’ <i>The Journal of Aesthetics and Art Criticism</i>, Vol. 51, No. 4 (Autumn 1993): 541&#8211;550.</li>
+<li><a href="/wiki/Schopenhauer" class="mw-redirect" title="Schopenhauer">Schopenhauer</a>, Arthur. <i><a href="/wiki/The_World_as_Will_and_Representation" title="The World as Will and Representation">The World as Will and Representation</a></i>. Volume I. New York: Dover Press. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-486-21761-2" title="Special:BookSources/0-486-21761-2">0-486-21761-2</a></li>
+<li>Slocombe, Will. <i>Nihilism and the Sublime Postmodern: The (Hi)Story of a Difficult Relationship</i>. New York: Routledge, 2006.</li>
+<li>Stolnitz, Jerome. "On the Significance of Lord Shaftesbury in Modern Aesthetic Theory". <i>Philosophical Quarterly</i>, 43(2):97&#8211;113, 1961.</li>
+<li>Tsang, Lap Chuen. <i>The Sublime&#160;: Groundwork towards a Theory</i>. University of Rochester Press, 1998.</li>
+<li>Zuckert, R. ‘Awe or Envy? Herder contra Kant on the Sublime’. <i>The Journal of Aesthetics and Art Criticism</i>, Vol. 61, No. 3 (Summer 2003): 217&#8211;232.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="External_links">External links</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sublime_(philosophy)&amp;action=edit&amp;section=16" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1235681985">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><style data-mw-deduplicate="TemplateStyles:r1237033735">@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span></span></div>
+<div class="side-box-text plainlist">Wikiquote has quotations related to <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Sublime_(philosophy)" class="extiw" title="q:Special:Search/Sublime (philosophy)">Sublime (philosophy)</a></b></i>.</div></div>
+</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1235681985"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1237033735"><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" decoding="async" width="38" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></span></span></div>
+<div class="side-box-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article "<span style="font-weight:bold;"><a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sublime" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Sublime">Sublime</a></span>".</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.schillerinstitute.org/transl/trans_on_sublime.html">Friedrich Schiller, On the Sublime</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/programmes/p004y23j">The Sublime</a>, BBC Radio 4 discussion with Janet Todd, Annie Janowitz &amp; Peter de Bolla (<i>In Our Time</i>, Feb. 12, 2004)</li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1236075235">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></div><div role="navigation" class="navbox" aria-labelledby="Aesthetics" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1239400231">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Aesthetics" title="Template:Aesthetics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Aesthetics" title="Template talk:Aesthetics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Aesthetics" title="Special:EditPage/Template:Aesthetics"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Aesthetics" style="font-size:114%;margin:0 4em"><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Areas</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ancient_aesthetics" title="Ancient aesthetics">Ancient</a></li>
+<li><a href="/wiki/African_aesthetic" title="African aesthetic">Africa</a></li>
+<li><a href="/wiki/Indian_aesthetics" title="Indian aesthetics">India</a></li>
+<li><a href="/wiki/Internet_aesthetic" title="Internet aesthetic">Internet</a></li>
+<li><a href="/wiki/Japanese_aesthetics" title="Japanese aesthetics">Japanese</a></li>
+<li><a href="/wiki/Mathematics_and_art" title="Mathematics and art">Mathematics</a></li>
+<li><a href="/wiki/Medieval_aesthetics" title="Medieval aesthetics">Medieval</a></li>
+<li><a href="/wiki/Aesthetics_of_music" title="Aesthetics of music">Music</a></li>
+<li><a href="/wiki/Aesthetics_of_nature" title="Aesthetics of nature">Nature</a></li>
+<li><a href="/wiki/Aesthetics_of_science" title="Aesthetics of science">Science</a></li>
+<li><a href="/wiki/Theological_aesthetics" title="Theological aesthetics">Theology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Schools</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Aestheticism" title="Aestheticism">Aestheticism</a></li>
+<li><a href="/wiki/Classicism" title="Classicism">Classicism</a></li>
+<li><a href="/wiki/Fascism#Aesthetics" title="Fascism">Fascism</a></li>
+<li><a href="/wiki/Feminist_aesthetics" title="Feminist aesthetics">Feminism</a></li>
+<li><a href="/wiki/Formalism_(art)" title="Formalism (art)">Formalism</a></li>
+<li><a href="/wiki/Historicism_(art)" title="Historicism (art)">Historicism</a></li>
+<li><a href="/wiki/Marxist_aesthetics" title="Marxist aesthetics">Marxism</a></li>
+<li><a href="/wiki/Modernism" title="Modernism">Modernism</a></li>
+<li><a href="/wiki/Postmodernism" title="Postmodernism">Postmodernism</a></li>
+<li><a href="/wiki/Psychoanalytic_theory" title="Psychoanalytic theory">Psychoanalysis</a></li>
+<li><a href="/wiki/Aesthetic_Realism" title="Aesthetic Realism">Realism</a></li>
+<li><a href="/wiki/Romanticism" title="Romanticism">Romanticism</a></li>
+<li><a href="/wiki/Symbolism_(arts)" title="Symbolism (arts)">Symbolism</a></li>
+<li><a href="/wiki/Theosophy_and_visual_arts" title="Theosophy and visual arts">Theosophy</a></li>
+<li><i><a href="/wiki/List_of_art_movements" title="List of art movements">more...</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Philosophers</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Abhinavagupta" title="Abhinavagupta">Abhinavagupta</a></li>
+<li><a href="/wiki/Theodor_W._Adorno" title="Theodor W. Adorno">Adorno</a></li>
+<li><a href="/wiki/Leon_Battista_Alberti" title="Leon Battista Alberti">Alberti</a></li>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
+<li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Aquinas</a></li>
+<li><a href="/wiki/B%C3%A9la_Bal%C3%A1zs" title="Béla Balázs">Balázs</a></li>
+<li><a href="/wiki/Hans_Urs_von_Balthasar" title="Hans Urs von Balthasar">Balthasar</a></li>
+<li><a href="/wiki/Charles_Baudelaire" title="Charles Baudelaire">Baudelaire</a></li>
+<li><a href="/wiki/Jean_Baudrillard" title="Jean Baudrillard">Baudrillard</a></li>
+<li><a href="/wiki/Alexander_Gottlieb_Baumgarten" title="Alexander Gottlieb Baumgarten">Baumgarten</a></li>
+<li><a href="/wiki/Clive_Bell" title="Clive Bell">Bell</a></li>
+<li><a href="/wiki/Walter_Benjamin" title="Walter Benjamin">Benjamin</a></li>
+<li><a href="/wiki/Edmund_Burke" title="Edmund Burke">Burke</a></li>
+<li><a href="/wiki/Samuel_Taylor_Coleridge" title="Samuel Taylor Coleridge">Coleridge</a></li>
+<li><a href="/wiki/R._G._Collingwood" title="R. G. Collingwood">Collingwood</a></li>
+<li><a href="/wiki/Ananda_Coomaraswamy" title="Ananda Coomaraswamy">Coomaraswamy</a></li>
+<li><a href="/wiki/Arthur_Danto" title="Arthur Danto">Danto</a></li>
+<li><a href="/wiki/Gilles_Deleuze" title="Gilles Deleuze">Deleuze</a></li>
+<li><a href="/wiki/John_Dewey" title="John Dewey">Dewey</a></li>
+<li><a href="/wiki/Roger_Fry" title="Roger Fry">Fry</a></li>
+<li><a href="/wiki/Johann_Wolfgang_von_Goethe" title="Johann Wolfgang von Goethe">Goethe</a></li>
+<li><a href="/wiki/Nelson_Goodman" title="Nelson Goodman">Goodman</a></li>
+<li><a href="/wiki/Clement_Greenberg" title="Clement Greenberg">Greenberg</a></li>
+<li><a href="/wiki/Eduard_Hanslick" title="Eduard Hanslick">Hanslick</a></li>
+<li><a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">Hegel</a></li>
+<li><a href="/wiki/Martin_Heidegger" title="Martin Heidegger">Heidegger</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">Hume</a></li>
+<li><a href="/wiki/Francis_Hutcheson_(philosopher)" title="Francis Hutcheson (philosopher)">Hutcheson</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Kant</a></li>
+<li><a href="/wiki/S%C3%B8ren_Kierkegaard" title="Søren Kierkegaard">Kierkegaard</a></li>
+<li><a href="/wiki/Paul_Klee" title="Paul Klee">Klee</a></li>
+<li><a href="/wiki/Susanne_Langer" title="Susanne Langer">Langer</a></li>
+<li><a href="/wiki/Theodor_Lipps" title="Theodor Lipps">Lipps</a></li>
+<li><a href="/wiki/Gy%C3%B6rgy_Luk%C3%A1cs" title="György Lukács">Lukács</a></li>
+<li><a href="/wiki/Jean-Fran%C3%A7ois_Lyotard" title="Jean-François Lyotard">Lyotard</a></li>
+<li><a href="/wiki/Paul_de_Man" title="Paul de Man">Man</a></li>
+<li><a href="/wiki/Jacques_Maritain" title="Jacques Maritain">Maritain</a></li>
+<li><a href="/wiki/Maurice_Merleau-Ponty" title="Maurice Merleau-Ponty">Merleau-Ponty</a></li>
+<li><a href="/wiki/Friedrich_Nietzsche" title="Friedrich Nietzsche">Nietzsche</a></li>
+<li><a href="/wiki/Jos%C3%A9_Ortega_y_Gasset" title="José Ortega y Gasset">Ortega y Gasset</a></li>
+<li><a href="/wiki/Walter_Pater" title="Walter Pater">Pater</a></li>
+<li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Jacques_Ranci%C3%A8re" title="Jacques Rancière">Rancière</a></li>
+<li><a href="/wiki/Ayn_Rand" title="Ayn Rand">Rand</a></li>
+<li><a href="/wiki/I._A._Richards" title="I. A. Richards">Richards</a></li>
+<li><a href="/wiki/John_Ruskin" title="John Ruskin">Ruskin</a></li>
+<li><a href="/wiki/George_Santayana" title="George Santayana">Santayana</a></li>
+<li><a href="/wiki/Friedrich_Schiller" title="Friedrich Schiller">Schiller</a></li>
+<li><a href="/wiki/Arthur_Schopenhauer" title="Arthur Schopenhauer">Schopenhauer</a></li>
+<li><a href="/wiki/Roger_Scruton" title="Roger Scruton">Scruton</a></li>
+<li><a href="/wiki/Rabindranath_Tagore" title="Rabindranath Tagore">Tagore</a></li>
+<li><a href="/wiki/Jun%27ichir%C5%8D_Tanizaki" title="Jun&#39;ichirō Tanizaki">Tanizaki</a></li>
+<li><a href="/wiki/Giorgio_Vasari" title="Giorgio Vasari">Vasari</a></li>
+<li><a href="/wiki/Oscar_Wilde" title="Oscar Wilde">Wilde</a></li>
+<li><a href="/wiki/Johann_Joachim_Winckelmann" title="Johann Joachim Winckelmann">Winckelmann</a></li>
+<li><i><a href="/wiki/List_of_aestheticians" title="List of aestheticians">more...</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Appropriation_(art)" title="Appropriation (art)">Appropriation</a></li>
+<li><a href="/wiki/Art_for_art%27s_sake" title="Art for art&#39;s sake">Art for art's sake</a></li>
+<li><a href="/wiki/Art_manifesto" title="Art manifesto">Art manifesto</a></li>
+<li><a href="/wiki/Artistic_merit" title="Artistic merit">Artistic merit</a></li>
+<li><a href="/wiki/Avant-garde" title="Avant-garde">Avant-garde</a></li>
+<li><a href="/wiki/Beauty" title="Beauty">Beauty</a>
+<ul><li><a href="/wiki/Feminine_beauty_ideal" title="Feminine beauty ideal">Feminine</a></li>
+<li><a href="/wiki/Masculine_beauty_ideal" title="Masculine beauty ideal">Masculine</a></li></ul></li>
+<li><a href="/wiki/Camp_(style)" title="Camp (style)">Camp</a></li>
+<li><a href="/wiki/Comedy" title="Comedy">Comedy</a></li>
+<li><a href="/wiki/Creativity" title="Creativity">Creativity</a></li>
+<li><a href="/wiki/Cuteness" title="Cuteness">Cuteness</a></li>
+<li><a href="/wiki/Depiction" title="Depiction">Depiction</a></li>
+<li><a href="/wiki/Disgust" title="Disgust">Disgust</a></li>
+<li><a href="/wiki/Ecstasy_(philosophy)" title="Ecstasy (philosophy)">Ecstasy</a></li>
+<li><a href="/wiki/Elegance" title="Elegance">Elegance</a></li>
+<li><a href="/wiki/Aesthetic_emotions" title="Aesthetic emotions">Emotions</a></li>
+<li><a href="/wiki/Entertainment" title="Entertainment">Entertainment</a></li>
+<li><a href="/wiki/Eroticism" title="Eroticism">Eroticism</a></li>
+<li><a href="/wiki/Fashion" title="Fashion">Fashion</a></li>
+<li><a href="/wiki/Fun" title="Fun">Fun</a></li>
+<li><a href="/wiki/Gaze" title="Gaze">Gaze</a></li>
+<li><a href="/wiki/Harmony" title="Harmony">Harmony</a></li>
+<li><a href="/wiki/Humour" title="Humour">Humour</a></li>
+<li><a href="/wiki/Aesthetic_interpretation" title="Aesthetic interpretation">Interpretation</a></li>
+<li><a href="/wiki/Judgment" class="mw-redirect" title="Judgment">Judgment</a></li>
+<li><i><a href="/wiki/Kama" title="Kama">Kama</a></i></li>
+<li><a href="/wiki/Kitsch" title="Kitsch">Kitsch</a></li>
+<li><a href="/wiki/Life_imitating_art" title="Life imitating art">Life imitating art</a></li>
+<li><a href="/wiki/Magnificence_(history_of_ideas)" title="Magnificence (history of ideas)">Magnificence</a></li>
+<li><a href="/wiki/Mimesis" title="Mimesis">Mimesis</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Picturesque" title="Picturesque">Picturesque</a></li>
+<li><a href="/wiki/Quality_(philosophy)" title="Quality (philosophy)">Quality</a></li>
+<li><i><a href="/wiki/Rasa_(aesthetics)" title="Rasa (aesthetics)">Rasa</a></i></li>
+<li><a href="/wiki/Recreation" title="Recreation">Recreation</a></li>
+<li><a href="/wiki/Reverence_(emotion)" title="Reverence (emotion)">Reverence</a></li>
+<li><a href="/wiki/Style_(visual_arts)" title="Style (visual arts)">Style</a></li>
+<li><a class="mw-selflink selflink">Sublime</a></li>
+<li><a href="/wiki/Taste_(sociology)" class="mw-redirect" title="Taste (sociology)">Taste</a></li>
+<li><a href="/wiki/Tragedy" title="Tragedy">Tragedy</a></li>
+<li><a href="/wiki/Work_of_art" title="Work of art">Work of art</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Works</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Hippias_Major" title="Hippias Major">Hippias Major</a></i> <span style="font-size:85%;">(c. 390 BC)</span></li>
+<li><i><a href="/wiki/Poetics_(Aristotle)" title="Poetics (Aristotle)">Poetics</a></i> <span style="font-size:85%;">(c. 335 BC)</span></li>
+<li><i><a href="/wiki/The_Literary_Mind_and_the_Carving_of_Dragons" title="The Literary Mind and the Carving of Dragons">The Literary Mind and the Carving of Dragons</a></i> <span style="font-size:85%;">(c. 100)</span></li>
+<li><i><a href="/wiki/On_the_Sublime" title="On the Sublime">On the Sublime</a></i> <span style="font-size:85%;">(c. 500)</span></li>
+<li><i><a href="/wiki/A_Philosophical_Enquiry_into_the_Origin_of_Our_Ideas_of_the_Sublime_and_Beautiful" title="A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful">A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</a></i> <span style="font-size:85%;">(1757)</span></li>
+<li><i><a href="/wiki/Lectures_on_Aesthetics" title="Lectures on Aesthetics">Lectures on Aesthetics</a></i> <span style="font-size:85%;">(1835)</span></li>
+<li>"<a href="/wiki/The_Critic_as_Artist" title="The Critic as Artist">The Critic as Artist</a>" <span style="font-size:85%;">(1891)</span></li>
+<li><i><a href="/wiki/In_Praise_of_Shadows" title="In Praise of Shadows">In Praise of Shadows</a></i> <span style="font-size:85%;">(1933)</span></li>
+<li><i><a href="/wiki/Art_as_Experience" title="Art as Experience">Art as Experience</a></i> <span style="font-size:85%;">(1934)</span></li>
+<li>"<a href="/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction" title="The Work of Art in the Age of Mechanical Reproduction">The Work of Art in the Age of Mechanical Reproduction</a>" <span style="font-size:85%;">(1935)</span></li>
+<li>"<a href="/wiki/Avant-Garde_and_Kitsch" title="Avant-Garde and Kitsch">Avant-Garde and Kitsch</a>" <span style="font-size:85%;">(1939)</span></li>
+<li><i><a href="/wiki/Critical_Essays_(Orwell)" title="Critical Essays (Orwell)">Critical Essays</a></i> <span style="font-size:85%;">(1946)</span></li>
+<li><i><a href="/wiki/The_Aesthetic_Dimension" title="The Aesthetic Dimension">The Aesthetic Dimension</a></i> <span style="font-size:85%;">(1977)</span></li>
+<li><i><a href="/wiki/Why_Beauty_Matters" title="Why Beauty Matters">Why Beauty Matters</a></i> <span style="font-size:85%;">(2009)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Aestheticization_of_politics" title="Aestheticization of politics">Aestheticization of politics</a></li>
+<li><a href="/wiki/Applied_aesthetics" title="Applied aesthetics">Applied aesthetics</a></li>
+<li><a href="/wiki/Arts_criticism" title="Arts criticism">Arts criticism</a></li>
+<li><a href="/wiki/Axiology" title="Axiology">Axiology</a></li>
+<li><a href="/wiki/Evolutionary_aesthetics" title="Evolutionary aesthetics">Evolutionary aesthetics</a></li>
+<li><a href="/wiki/Mathematical_beauty" title="Mathematical beauty">Mathematical beauty</a></li>
+<li><a href="/wiki/Neuroesthetics" title="Neuroesthetics">Neuroesthetics</a></li>
+<li><a href="/wiki/Patterns_in_nature" title="Patterns in nature">Patterns in nature</a></li>
+<li><a href="/wiki/Philosophy_of_design" title="Philosophy of design">Philosophy of design</a></li>
+<li><a href="/wiki/Philosophy_of_film" title="Philosophy of film">Philosophy of film</a></li>
+<li><a href="/wiki/Philosophy_of_music" title="Philosophy of music">Philosophy of music</a></li>
+<li><a href="/wiki/Psychology_of_art" title="Psychology of art">Psychology of art</a></li>
+<li><a href="/wiki/Theory_of_art" title="Theory of art">Theory of art</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Index_of_aesthetics_articles" title="Index of aesthetics articles">Index</a></li>
+<li><a href="/wiki/Outline_of_aesthetics" title="Outline of aesthetics">Outline</a></li>
+<li><a href="/wiki/Category:Aesthetics" title="Category:Aesthetics">Category</a></li>
+<li><span class="nowrap"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/18px-Socrates.png" decoding="async" width="18" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/27px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/36px-Socrates.png 2x" data-file-width="326" data-file-height="500" /></span></span> </span><a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy&#32;portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236075235"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319"></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: National <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q999803#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Sublime"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11950933b">France</a></span></span></li>
+<li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Sublime"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11950933b">BnF data</a></span></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4148823-4">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="http://olduli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007543853505171">Israel</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/sh85129476">United States</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/01160074">Japan</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐698f8ff66d‐vgnqc
+Cached time: 20240811014442
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.882 seconds
+Real time usage: 1.243 seconds
+Preprocessor visited node count: 3277/1000000
+Post‐expand include size: 59100/2097152 bytes
+Template argument size: 3417/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 72906/5000000 bytes
+Lua time usage: 0.549/10.000 seconds
+Lua memory usage: 5573393/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1069.114      1 -total
+ 28.25%  302.012      1 Template:Reflist
+ 21.92%  234.347      4 Template:Cite_book
+ 16.97%  181.444      1 Template:Aesthetics
+ 16.62%  177.708      1 Template:Navbox
+ 15.24%  162.944      1 Template:Authority_control
+ 12.21%  130.511      1 Template:Short_description
+  7.94%   84.856      1 Template:Lead_too_short
+  7.28%   77.818      1 Template:Ambox
+  7.11%   76.041      2 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:744036-0!canonical and timestamp 20240811014442 and revision id 1221919352. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sublime_(philosophy)&amp;oldid=1221919352">https://en.wikipedia.org/w/index.php?title=Sublime_(philosophy)&amp;oldid=1221919352</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Abstraction" title="Category:Abstraction">Abstraction</a></li><li><a href="/wiki/Category:Concepts_in_aesthetics" title="Category:Concepts in aesthetics">Concepts in aesthetics</a></li><li><a href="/wiki/Category:Themes_of_the_Romantic_Movement" title="Category:Themes of the Romantic Movement">Themes of the Romantic Movement</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_November_2017" title="Category:Wikipedia introduction cleanup from November 2017">Wikipedia introduction cleanup from November 2017</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_November_2017" title="Category:Articles covered by WikiProject Wikify from November 2017">Articles covered by WikiProject Wikify from November 2017</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_J9U_identifiers" title="Category:Articles with J9U identifiers">Articles with J9U identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_NDL_identifiers" title="Category:Articles with NDL identifiers">Articles with NDL identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 2 May 2024, at 19:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sublime_(philosophy)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" style="padding-left: 8px; padding-right: 8px;" href="https://wikimediafoundation.org/" target="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.svg" width="84" height="29" alt="Wikimedia Foundation"></a></li>
+	<li id="footer-poweredbyico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" style="padding-left: 8px; padding-right: 8px;" href="https://www.mediawiki.org" target="https://www.mediawiki.org"><img src="/static/images/footer/poweredby_mediawiki.svg" width="84" height="29" alt="Powered by MediaWiki"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.canary-cd87888c9-7npj9","wgBackendResponseTime":139,"wgPageParseReport":{"limitreport":{"cputime":"0.882","walltime":"1.243","ppvisitednodes":{"value":3277,"limit":1000000},"postexpandincludesize":{"value":59100,"limit":2097152},"templateargumentsize":{"value":3417,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":72906,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1069.114      1 -total"," 28.25%  302.012      1 Template:Reflist"," 21.92%  234.347      4 Template:Cite_book"," 16.97%  181.444      1 Template:Aesthetics"," 16.62%  177.708      1 Template:Navbox"," 15.24%  162.944      1 Template:Authority_control"," 12.21%  130.511      1 Template:Short_description","  7.94%   84.856      1 Template:Lead_too_short","  7.28%   77.818      1 Template:Ambox","  7.11%   76.041      2 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.549","limit":"10.000"},"limitreport-memusage":{"value":5573393,"limit":52428800},"limitreport-logs":"table#1 {\n}\n"},"cachereport":{"origin":"mw-web.eqiad.main-698f8ff66d-vgnqc","timestamp":"20240811014442","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sublime (philosophy)","url":"https:\/\/en.wikipedia.org\/wiki\/Sublime_(philosophy)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q999803","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q999803","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-06-22T18:46:33Z","dateModified":"2024-05-02T19:41:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b9\/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg","headline":"quality of greatness"}</script>
+</body>
+</html>
